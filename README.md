@@ -25,7 +25,7 @@ The Streamlit app, hosted [here](https://waste-classification-ml-project.streaml
 
 ## Contributing
 
-We welcome contributions to enhance the functionality and performance of the Waste Management Classification App. If you would like to contribute, please follow these steps:
+Your contributions are welcome to enhance the functionality and performance of the Waste Management Classification App. If you would like to contribute, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
